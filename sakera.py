@@ -3,7 +3,7 @@
 Author    = 'Cyber-Dark'
 Facebook  = 'Facebook.com/Dapunta.Khurayra.X'
 Instagram = 'Instagram.com/Dapunta.Ratya'
-Whatsapp  = '082245780524'
+Whatsapp  = '088222015293'
 YouTube   = 'Youtube.com/channel/UCZqnZlJ0jfoWSnXrNEj5JHA'
 Version   = '0.6'
 Denventa  = 1827084332
