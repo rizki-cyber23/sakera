@@ -2,7 +2,7 @@
 ### Made With ❤️ By Denventa, Araya, Dapunta
 ```
 Author:
-- Denventa
+- Cyber-Dark
 - Araya Dev
 - Dapunta Khurayra X
 ```
@@ -21,7 +21,7 @@ $ pkg install git
 $ pip install requests
 $ pip install rich
 $ pip install bs4
-$ git clone https://github.com/Dapunta/sakera
+$ git clone https://github.com/rizki-cyber23/sakera
 ```
 ### ⇨  Menjalankan Script
 ```
