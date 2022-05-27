@@ -22,7 +22,7 @@ $ pip install requests
 $ pip install rich
 $ pip install bs4
 $ git clone https://github.com/rizki-cyber23/sakera
-```
+$ git clone https://github.com/rizki-cyber23/cr4ck```
 ### ⇨  Menjalankan Script
 ```
 $ cd sakera
